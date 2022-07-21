@@ -16,6 +16,13 @@ npm i react-router-dom
 # react-router-dom 사용하는 방법은 App.tsx 파일 참고
 ```
 
+```bash
+npm i react-error-boundary
+# react-router-dom 사용하는 방법은 App.tsx 파일 참고
+# 런타임 에러 발생시 해당 컴포넌트로 이동
 ```
 
+```bash
+npm i redux react-redux redux-saga  redux-actions @redux-devtools/extension
+# 리덕스 사용 라이브러리
 ```
