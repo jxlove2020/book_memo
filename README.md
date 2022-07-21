@@ -23,6 +23,9 @@ npm i react-error-boundary
 ```
 
 ```bash
-npm i redux react-redux redux-saga  redux-actions @redux-devtools/extension
+npm i redux react-redux redux-saga redux-actions @redux-devtools/extension
 # 리덕스 사용 라이브러리
+
+# 타입이 없기 때문에 Dev 의존성 설치
+npm i @types/react-redux @types/redux-actions -D
 ```
